@@ -1,8 +1,8 @@
-Here is the output **before implementing lock**:
+Here is the output **Deadlock**:
 
 ![Before Lock](Deadlock.png)
 
-Here is the output **before implementing lock**:
+Here is the output **Solution**:
 
 ![Before Lock](solution_deadlock.png)
 
